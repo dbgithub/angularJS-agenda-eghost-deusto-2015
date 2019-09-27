@@ -7,3 +7,7 @@ This is an AngularJS application based on a 2-days summer course during the e-gh
 * Original file resources: https://sites.google.com/a/deusto.es/e-ghost-2015/cursos/introduccion-a-angularjs
 * Twitter: [@egh0st](https://twitter.com/egh0st)
 * Web: http://softwarelibre.deusto.es/e-ghost/
+
+## License
+
+See the [LICENSE](https://github.com/dbgithub/angularJS-agenda-eghost-deusto-2015/blob/master/LICENSE) file
